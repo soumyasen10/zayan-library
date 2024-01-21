@@ -1,0 +1,25 @@
+{
+    "name": "@zayan/utils",
+    "version": "1.0.0",
+    "description": "A set of Javascript utils",
+    "main": "lib/es5/index.js",
+    "module": "lib/es6/index.js",
+    "sideEffects":false,
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:soumyasen10/zayan-library.git"
+    },
+    "files": [
+        "lib",
+        "CHANGLOG.md",
+        "LINCENSE",
+        "package.json",
+        "README.md"
+    ],
+    "keywords": [
+        "Javascript",
+        "utils",
+        "utilities"
+    ],
+    "author": "Soumya Sen"
+}

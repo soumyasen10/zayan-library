@@ -1,0 +1,14 @@
+{
+    "name": "zayan",
+    "version": "1.0.0",
+    "repository": "git@github.com:soumyasen10/zayan-library.git",
+    "author": "soumya sen <soumyasenofficial@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+      "compile": "rmdir /s /q dist\\lib && tsc && tsc --build tsconfig.es5.json"
+    },
+    "devDependencies": {
+      "typescript": "^5.3.3"
+    }
+  }
+  
